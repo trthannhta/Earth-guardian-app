@@ -46,7 +46,7 @@ The app includes features such as environmental lessons, engaging games, and tas
 - Run the app using `yarn start` or another suitable command
 
 ```bash
-git clone <git url app>
-cd app_name
+git clone [<git url app>](https://github.com/trthannhta/Earth-guardian-app.git)
+cd Earth-guardian-app
 yarn
 yarn start
