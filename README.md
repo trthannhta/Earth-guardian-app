@@ -15,10 +15,11 @@
     - [Installation](#installation)
 
 ## About
-<!-- App description -->
+ Earth Guardians is designed to educate and raise awareness about environmental protection for elementary students through interactive games and lessons. This application primarily targets elementary students from grades 1 to 5.
+
 
 ## Features
-<!-- Your features app -->
+The app includes features such as environmental lessons, engaging games, and tasks that encourage participation in eco-friendly activities. It also highlights the connection between a healthy environment and children's well-being. 
 
 ## Screenshots
 <!-- Screenshot image of some screen and place in ~/images folder from root app -->
